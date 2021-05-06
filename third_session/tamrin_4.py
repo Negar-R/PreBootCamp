@@ -54,3 +54,7 @@ print(cnt, sum)
 
 # n = 10 ^ 8 -> order(n) -> 1 s
 # n = 10 ^ 16 -> log(n)
+
+
+
+
